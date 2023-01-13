@@ -1,0 +1,22 @@
+{
+  "name": "@sb-luis/jerga",
+  "version": "0.0.0",
+  "description": "Access and interpolate strings from a dictionary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sb-luis/jerga.git"
+  },
+  "keywords": [
+    "utilities"
+  ],
+  "author": "Luis Sanchez Barranquero <luis.sb.dev@gmail.com> (lsb.name)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sb-luis/jerga/issues"
+  },
+  "homepage": "https://github.com/sb-luis/jerga#readme"
+}
